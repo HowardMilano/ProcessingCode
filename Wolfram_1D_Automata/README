@@ -1,0 +1,3 @@
+Code to visualize Wolfram 1D Automata rules, written in the Processing Language.
+The code is primed to use rule 169, which I find to be one of the more interesting rules. It creates an interesting varying, non-repeating pattern.
+I added a sample of the output of rule 169 in a .png output file, created after 426,164 generations.
