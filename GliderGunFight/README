@@ -1,0 +1,7 @@
+Research of an aspect of John Conway's Game of Life.
+Four Gosper Glider Guns are created in the four corners of an area of Game of Life,
+with their creation time optionally staggered. All of them shoot at the center of the
+screen, and really to each other as well. Then we observe what happens. Will
+any or all or some of the guns survive into a stable state? Guns are either killed
+by mayhem engulfing them, OR by stray gliders. After some experimenting
+it shows that it's possible to create stable states with all three possibilities.
